@@ -2,13 +2,11 @@
 
 Perkenalkan nama saya **Zanditya Aldi Pradana**.<br>
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+You Only Live Once.<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+6th Semester<br>
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GitHub](https://www.github.com/zndyth/)ku ya.
+silakan ikuti akun : [GitHub](https://www.github.com/zndyth/)ku ya.
 
 # GitHub Statistic
 <p align="left">
